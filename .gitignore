@@ -1,0 +1,20 @@
+# Dependencies
+portfolio/node_modules/
+
+# Next.js build output
+portfolio/.next/
+portfolio/out/
+
+# Next.js cache
+portfolio/.swc/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
